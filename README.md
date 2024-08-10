@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Khac Nghia (Hong Xiem) 👋
+😄 Everything begins from a movement
+- 👀 I’m interested in
+    - Embedded systems
+    - BLDC Motor
+    - Comunications
+- 🌱 What I am doing now:
+  - Full-time Embedded System Developer at Apicoo Robotics Inc., https://apicoorobotics.com/
+    - Develop embedded systems for BLDC Motor, Smart Gripper using ARM-based MCUs.
+- 📫 How to reach me: https://github.com/nghiank97
 
 <!--
 **nghiank97/nghiank97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
